@@ -1,1 +1,1 @@
-bad readme file
+This is a good  readme file
